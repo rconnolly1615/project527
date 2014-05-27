@@ -24,7 +24,7 @@ production:
   adapter: postgresql
   host: localhost
   encoding: unicode
-  database: [PROJECT]_production
+  database: class527_production
   pool: 5
   username:
   password:
